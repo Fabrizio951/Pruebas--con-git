@@ -1,4 +1,4 @@
-""""String 02"""
+"""String 02"""
 nombre_curso = "Ultimate Python"
 descripcion = """
 Ultimate Python
@@ -7,7 +7,10 @@ Bien Hecho
 """
 print(nombre_curso,descripcion)
 
+"""Cantidad de caracteres total"""
+
 print(len(nombre_curso))
+
 "Traer solo en el orden marcado"
 
 print(nombre_curso[0])

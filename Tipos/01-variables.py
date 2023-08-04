@@ -1,4 +1,4 @@
-""""Variables 01"""
+"""Variables 01"""
 
 nombre_curso = "Ultimate python"
 nombre = "Python2"
